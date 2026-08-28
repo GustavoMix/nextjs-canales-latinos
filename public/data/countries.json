@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-28T16:15:27Z",
+  "countries": [
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "bo.json"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "ar.json"
+    },
+    {
+      "code": "BR",
+      "name": "Brasil",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "br.json"
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "cl.json"
+    },
+    {
+      "code": "PE",
+      "name": "Perú",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "pe.json"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "co.json"
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "ec.json"
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "py.json"
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "uy.json"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "ve.json"
+    },
+    {
+      "code": "MX",
+      "name": "México",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "mx.json"
+    },
+    {
+      "code": "PA",
+      "name": "Panamá",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "pa.json"
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "cr.json"
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "gt.json"
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "hn.json"
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "sv.json"
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "ni.json"
+    },
+    {
+      "code": "DO",
+      "name": "República Dominicana",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "do.json"
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "pr.json"
+    },
+    {
+      "code": "ES",
+      "name": "España",
+      "channels": 1,
+      "generated_at": "2026-08-28T16:15:27Z",
+      "path": "es.json"
+    }
+  ]
+}

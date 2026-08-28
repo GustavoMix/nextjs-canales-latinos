@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "country": {
+    "code": "ES",
+    "name": "España"
+  },
+  "generated_at": "2026-08-28T16:15:27Z",
+  "source_health": [
+    {
+      "id": "demo",
+      "url": "https://test-streams.mux.dev/",
+      "success": true,
+      "error": "",
+      "candidates": 1
+    }
+  ],
+  "stats": {
+    "discovered_candidates": 1,
+    "rejected_candidates": 0,
+    "check_rounds": 2
+  },
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "demo-es",
+      "name": "Demo HLS · España",
+      "logo": "",
+      "category": "Demostración",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "alternates": [],
+      "status": "stable",
+      "stability": {
+        "success_rate": 1.0,
+        "consecutive_successes": 2
+      },
+      "latency_ms": 350,
+      "sources": [
+        "demo_local"
+      ],
+      "android_playable": true,
+      "https": true,
+      "cors": "allowed",
+      "web_playable": true,
+      "last_checked": "2026-08-28T16:15:27Z"
+    }
+  ]
+}
