@@ -1,5 +1,5 @@
 const DEFAULT_DATA_BASE = "/data";
-const DEFAULT_CRON_REPO = "channelwatch-cron";
+const DEFAULT_CRON_REPO = "cron-canales-latinos";
 
 type DataBaseOptions = {
   explicitBase?: string;

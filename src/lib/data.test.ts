@@ -14,10 +14,10 @@ test("dataUrl funciona con una URL remota", () => {
   );
 });
 
-test("GitHub Pages descubre automaticamente el repo channelwatch-cron del mismo usuario", () => {
+test("GitHub Pages descubre automaticamente el repo cron-canales-latinos del mismo usuario", () => {
   assert.equal(
     resolveDataBase({ hostname: "grover.github.io", origin: "https://grover.github.io" }),
-    "https://grover.github.io/channelwatch-cron/data",
+    "https://grover.github.io/cron-canales-latinos/data",
   );
 });
 
